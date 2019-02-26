@@ -1,0 +1,2 @@
+# littleProjects
+Aleatory personal projects
